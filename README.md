@@ -49,6 +49,3 @@ implementing your own Cursor.]{lang="en-US"}
 
 [The final step is implementing multicast, i.e., sending messages to
 multiple AVDs.]
-
-#### Notes {#notes .western}
-
