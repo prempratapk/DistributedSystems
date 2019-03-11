@@ -48,45 +48,7 @@ implementing your own Cursor.]{lang="en-US"}
 ### Step 2: Implementing Multicast
 
 [The final step is implementing multicast, i.e., sending messages to
-multiple AVDs.]{lang="en-US"}[ ****** ]{lang="en-US"}[The requirements
-are the following.]{lang="en-US"}
-
-
-
-#### Testing {#testing .western}
-
-
-[We have testing programs to help you see how your code does with our
-grading criteria. If you find any rough edge with the testing programs,
-please report it on Piazza so the teaching staff can fix it. The
-instructions are the following:]{lang="en-US"}
- 
-
-### Submission {#submission .western}
-
-[We use the CSE submit script. You need to use either
-“]{lang="en-US"}[submit\_cse486” or “submit\_cse586”, depending on your
-registration status.]{lang="en-US"}[ If you haven’t used it, the
-instructions on how to use it is here:
-]{lang="en-US"}[[https://wiki.cse.buffalo.edu/services/content/submit-script]{lang="en-US"}](https://wiki.cse.buffalo.edu/services/content/submit-script)
-
-
-[You need to submit one file described below. ]{lang="en-US"}[Once
-again, you must follow everything below exactly. Otherwise, you will get
-no point on this assignment.]{lang="en-US"}
-
-
-
-### Deadline: 2/22/2017 (Friday) 11:59:59am {#deadline-2222017-friday-115959am .western}
-
-[This is one hour before class. The deadline is firm; if your timestamp
-is 12pm, it is a late submission.]{lang="en-US"}
-
-### Grading {#grading .western}
-
-[This assignment is 5% of your final grade. The breakdown for this
-assignment is:]{lang="en-US"}
-
+multiple AVDs.]
 
 #### Notes {#notes .western}
 
