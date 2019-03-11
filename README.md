@@ -3,7 +3,7 @@ CSE 486/586 Distributed Systems
 
 Group Messenger with a Local Persistent Key-Value Table 
 
-### Step 1: Writing a Content Provider {#step-1-writing-a-content-provider .western}
+### Step 1: Writing a Content Provider
 
 [Your first task is to write a content provider. This provider should be
 used to store all messages, but the abstraction it provides should be a
@@ -32,7 +32,7 @@ pairs.]{lang="en-US"}
   
   null // no need to support the *sortOrder* parameter
   
-  );
+ 
   ------------------------------------------------------------------------------
 
 
@@ -45,7 +45,7 @@ using your provider’s column names, i.e., “key” and “value”. You
 probably want to use android.database.MatrixCursor instead of
 implementing your own Cursor.]{lang="en-US"}
 
-### Step 2: Implementing Multicast {#step-2-implementing-multicast .western}
+### Step 2: Implementing Multicast
 
 [The final step is implementing multicast, i.e., sending messages to
 multiple AVDs.]{lang="en-US"}[ ****** ]{lang="en-US"}[The requirements
